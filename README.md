@@ -1,10 +1,19 @@
 # calculadora_IMC
-Projeto calculadora IMC com ReactJS + TypeScript
 
-Foi criada primeiro toda a estrutura do projeto com o vite no no ReactJS e TypeScript.
+Projeto criado em ReactJS e TypeScript.
 
-Foi utilizado o CSS modules.
+O projeto foi iniciado em vite.
 
-A estrutura e estilização esta completa do leftSide.
+Utilizei o CSS modules.
 
-E foi feita toda a lógica do calculo de IMC.
+O projeto estar responsivo.
+
+# Visializar o projeto em meu site [site](https://daniel-olive-dev.com.br/).
+
+# Instalçao:
+
+- `npm install`
+
+# Para rodar o projeto:
+
+- `npm run dev`
