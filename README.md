@@ -8,7 +8,7 @@ Utilizei o CSS modules.
 
 O projeto estar responsivo.
 
-# Visializar o projeto em meu site [site](https://daniel-olive-dev.com.br/).
+# Visializar o projeto em meu site [site](https://daniel-olive.github.io/calculadora_IMC/).
 
 # Instalçao:
 
